@@ -1,0 +1,14 @@
+D:\Practice\C#\StackDemo\bin\Debug\net8.0\StackDemo.exe
+D:\Practice\C#\StackDemo\bin\Debug\net8.0\StackDemo.deps.json
+D:\Practice\C#\StackDemo\bin\Debug\net8.0\StackDemo.runtimeconfig.json
+D:\Practice\C#\StackDemo\bin\Debug\net8.0\StackDemo.dll
+D:\Practice\C#\StackDemo\bin\Debug\net8.0\StackDemo.pdb
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.AssemblyInfoInputs.cache
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.AssemblyInfo.cs
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.csproj.CoreCompileInputs.cache
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.dll
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\refint\StackDemo.dll
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.pdb
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\StackDemo.genruntimeconfig.cache
+D:\Practice\C#\StackDemo\obj\Debug\net8.0\ref\StackDemo.dll
